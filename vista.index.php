@@ -2,8 +2,12 @@
 <!Doctype html>
 <html lang="es">
 <head>
-	<title>Login | Registros de Notas</title>
-	<link rel="shortcut icon" href="image/escudo.png">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>code war</title>
+	<body>
+		<h1>segundo commit</h1>
+</body>
 	
 	
 	
